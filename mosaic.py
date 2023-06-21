@@ -1,6 +1,6 @@
 import sys
 import os
-from PIL import Image, ImageOps
+from pil import Image, ImageOps
 from multiprocessing import Process, Queue, cpu_count
 
 # Change these 3 config parameters to suit your needs...
